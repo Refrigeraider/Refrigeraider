@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Refrigeraider
 - 👀 I’m interested in Documentaries
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on this platform
-- 📫 How to reach me by email 
+- 💞️ I’m looking to collaborate on Github
+- 📫 You can reach me by instagram or email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Probably not any
 
